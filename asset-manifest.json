@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.e710764c.css",
+    "main.js": "/react-portfolio/static/js/main.f1cb6a18.js",
+    "static/media/perfectday.png": "/react-portfolio/static/media/perfectday.99b8696e01c4414cf012.png",
+    "static/media/image0.jpeg": "/react-portfolio/static/media/image0.223bb12ceb49b8fa63cd.jpeg",
+    "static/media/image6.jpeg": "/react-portfolio/static/media/image6.ae2fc63e5fbc03296619.jpeg",
+    "static/media/resume.pdf": "/react-portfolio/static/media/resume.f2665cc33be044188b67.pdf",
+    "static/media/book.it.png": "/react-portfolio/static/media/book.it.50970a8a7f7e19fd1049.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.e710764c.css.map": "/react-portfolio/static/css/main.e710764c.css.map",
+    "main.f1cb6a18.js.map": "/react-portfolio/static/js/main.f1cb6a18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e710764c.css",
+    "static/js/main.f1cb6a18.js"
+  ]
+}
