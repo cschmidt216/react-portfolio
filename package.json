@@ -1,7 +1,7 @@
 {
   "name": "react-portfolio",
   "version": "0.1.0",
-  "homepage": "https://cschmidt216.github.io/challenge-react-Portfolio",
+  "homepage": "https://cschmidt216.github.io/react-portfolio",
   "private": true,
   "dependencies": {
     "@mdi/js": "^7.2.96",
